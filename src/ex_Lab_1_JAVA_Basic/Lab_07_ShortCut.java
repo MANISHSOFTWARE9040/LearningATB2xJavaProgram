@@ -1,4 +1,4 @@
-package ex_Lab1JAVA_Basic1;
+package ex_Lab_1_JAVA_Basic;
 
 public class Lab_07_ShortCut {
     public static void main(String[] args) {
