@@ -1,4 +1,4 @@
-package ex_Lab_1_JAVA_Basic;
+package ex_Lab_01_JAVA_Basic1;
 /**
  * Author : Mnaish Kumar
  * Course :  ATB12x

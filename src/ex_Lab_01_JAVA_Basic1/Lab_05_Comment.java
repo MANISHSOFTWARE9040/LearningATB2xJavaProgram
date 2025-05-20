@@ -1,4 +1,4 @@
-package ex_Lab_1_JAVA_Basic;
+package ex_Lab_01_JAVA_Basic1;
 
 public class Lab_05_Comment {
     public static void main(String[] args) {
